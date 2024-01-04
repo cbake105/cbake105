@@ -24,7 +24,6 @@ Most Used Languages:
 ![image](https://github.com/cbake105/cbake105/assets/133677209/aedaaae3-c848-49dc-a79a-9c72d081cdba)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/fda2581f-3b22-440e-a463-8c8eb263afb1)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/7e86a180-10b8-4dbe-a422-aa265ab54772)
-![image](https://github.com/cbake105/cbake105/assets/133677209/55a341e5-fe71-4aa5-8119-bf4342d91a82)
 
 Tools:
 
@@ -33,6 +32,8 @@ Tools:
 ![image](https://github.com/cbake105/cbake105/assets/133677209/fc70b0c8-e970-4243-b4e8-1b32594699d6)
 
 ![image](https://github.com/cbake105/cbake105/assets/133677209/7540ef7d-3878-4251-9436-4819398befe5)
+![image](https://github.com/cbake105/cbake105/assets/133677209/b384eaea-5988-4727-9b1a-9a3624cd85cf)
+
 
 
 
