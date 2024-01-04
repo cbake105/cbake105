@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 Most Used Languages: 
+
 ![image](https://github.com/cbake105/cbake105/assets/133677209/e42c2882-9a9b-4953-8d57-b2fde5d838a9)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/ec3bf0f4-e07e-44a9-8be0-710984d93f4a)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/fda2581f-3b22-440e-a463-8c8eb263afb1)
@@ -25,10 +26,12 @@ Most Used Languages:
 ![image](https://github.com/cbake105/cbake105/assets/133677209/55a341e5-fe71-4aa5-8119-bf4342d91a82)
 
 Tools:
+
 ![image](https://github.com/cbake105/cbake105/assets/133677209/2e7926c3-db48-4384-b711-0d11a81af636)
 
 ![image](https://github.com/cbake105/cbake105/assets/133677209/fc70b0c8-e970-4243-b4e8-1b32594699d6)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+![image](https://github.com/cbake105/cbake105/assets/133677209/7540ef7d-3878-4251-9436-4819398befe5)
+
 
 
