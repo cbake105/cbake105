@@ -24,3 +24,5 @@ I'm Chris Baker, Data Analyst 💻
 ## Connect with me here 🤝 :
 ![image](https://github.com/cbake105/cbake105/assets/133677209/f02460ff-488f-4a22-8e50-a158db10f72c)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/8f70def5-ceb0-4c87-8cae-3321fe56c655)
+![image](https://github.com/cbake105/cbake105/assets/133677209/96b290b7-76f3-47e5-a6c7-0f6b8e0f9f57)
+
