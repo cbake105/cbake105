@@ -1,4 +1,7 @@
-### Hi 👋, I'm Chris Baker 
+### Hi! 👋
+I'm Chris Baker, Data Analyst 💻
+
+![code](https://github.com/cbake105/cbake105/assets/133677209/85139089-8d7a-4d7a-b981-da30921a6588)
 ---
 
 
