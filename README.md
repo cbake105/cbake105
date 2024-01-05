@@ -38,9 +38,9 @@ Tools:
 
 
 
+![postgresql_original_logo_icon_146391](https://github.com/cbake105/cbake105/assets/133677209/71428e51-d203-459a-823d-9f420254bd4c)
 
 
-![postgresql_plain_logo_icon_146389 (1)](https://github.com/cbake105/cbake105/assets/133677209/6082d63d-a9a2-4024-8bdf-0083409fb23c)
 
 
 
