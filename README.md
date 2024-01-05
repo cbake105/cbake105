@@ -1,6 +1,7 @@
 ### Hi! 👋
 I'm Chris Baker, Data Analyst 💻
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh5ZzExenh3anprZmpuMHAweGpubXU2YWoxejNxOHV3emtmaTZjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif
+![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966](https://github.com/cbake105/cbake105/assets/133677209/0e3aa516-b5f6-4dd0-9a9c-d284d02649d4)
+
 ---
 
 ## Tools and Technologies I use :
