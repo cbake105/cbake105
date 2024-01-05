@@ -1,5 +1,6 @@
 ### Hi! 👋
 I'm Chris Baker, Data Analyst 💻
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh5ZzExenh3anprZmpuMHAweGpubXU2YWoxejNxOHV3emtmaTZjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gh0RRgkTXedvF0pDc0/giphy.gif
 ---
 
 ## Tools and Technologies I use :
