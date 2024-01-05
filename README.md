@@ -25,7 +25,7 @@ Data Analyst with a Finance background, proficient data analysis skills, and an 
 
 <h2 align="left"> Connect with me here 🤝 </h2>
 
-![image](https://github.com/cbake105/cbake105/assets/133677209/f02460ff-488f-4a22-8e50-a158db10f72c)
+[![image](https://github.com/cbake105/cbake105/assets/133677209/f02460ff-488f-4a22-8e50-a158db10f72c)](https://www.linkedin.com/in/chrisbaker9)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/8f70def5-ceb0-4c87-8cae-3321fe56c655)</h2>
 
 
