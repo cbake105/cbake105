@@ -1,5 +1,5 @@
-### Hi 👋, Chris Baker
-
+### Hi 👋, I'm Chris Baker 
+---
 
 
 <!--
