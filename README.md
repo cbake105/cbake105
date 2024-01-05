@@ -31,4 +31,6 @@ Here are some ideas to get you started:
 ![image](https://github.com/cbake105/cbake105/assets/133677209/0d1c2a8c-5007-4fab-a7b2-58de02d97c71)
 ![aws_icon_146074](https://github.com/cbake105/cbake105/assets/133677209/219c328e-f063-427e-a1a0-617f0bfa7766)
 
-## About Me 👨🏾‍💻
+## About Me 👨🏾‍💻:
+
+## Connect with me here 🤝:
