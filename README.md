@@ -39,7 +39,7 @@ Tools:
 
 
 ![postgresql_original_logo_icon_146391](https://github.com/cbake105/cbake105/assets/133677209/71428e51-d203-459a-823d-9f420254bd4c)
-![image](https://github.com/cbake105/cbake105/assets/133677209/e0ffc3ab-f48d-43ed-8bbb-48f01f7db4d6)
+![mongodb_original_logo_icon_146424](https://github.com/cbake105/cbake105/assets/133677209/3c4f9419-459b-440b-9d62-24f57e2d420c)
 
 
 
