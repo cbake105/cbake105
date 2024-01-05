@@ -8,7 +8,7 @@
 Data Analyst with a Finance background, proficient data analysis skills, and an eye for detail to continuously improve efficiency and accuracy. I am a highly skilled communicator and I enjoy connecting with people.
 
 
-<h2 align="left">Tools and Technologies I use :
+<h2 align="left">Tools and Technologies I use 🛠️ :
 
 ![image](https://github.com/cbake105/cbake105/assets/133677209/e42c2882-9a9b-4953-8d57-b2fde5d838a9)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/e169bc6a-80cd-4c0f-830e-e5132d8e40fd)
