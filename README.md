@@ -5,7 +5,7 @@
 </h2> 
 
 <h2 align="left"> About Me 👨🏾‍💻 :<br>
-**Data Analyst with a Finance background, proficient data analysis skills, and an eye for detail to continuously improve efficiency and accuracy. I am a highly skilled communicator and I enjoy connecting with people.**
+Data Analyst with a Finance background, proficient data analysis skills, and an eye for detail to continuously improve efficiency and accuracy. I am a highly skilled communicator and I enjoy connecting with people.
 
 
 ## Tools and Technologies I use :
