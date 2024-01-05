@@ -1,10 +1,10 @@
 <h2 align="center">
 <strong>Hi! 👋 I'm Chris Baker, Data Analyst 💻</strong>
 
-<br>![giphy](https://github.com/cbake105/cbake105/assets/133677209/87579deb-78c4-45f7-aa1d-6512d2ca0af1)><br>
+<br>![giphy](https://github.com/cbake105/cbake105/assets/133677209/87579deb-78c4-45f7-aa1d-6512d2ca0af1)<br>
 </h2> 
 
-<h2 align="left"> About Me 👨🏾‍💻 :
+<h2 align="left"> About Me 👨🏾‍💻 :<br>
 Data Analyst with a Finance background, proficient data analysis skills, and an eye for detail to continuously improve efficiency and accuracy. I am a highly skilled communicator and I enjoy connecting with people. 
 ---
 
