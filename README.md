@@ -1,7 +1,8 @@
 <div align="center">
 <strong>Hi! 👋 I'm Chris Baker, Data Analyst 💻</strong>
 </div>
-
+<br>
+<br>
 ![giphy](https://github.com/cbake105/cbake105/assets/133677209/87579deb-78c4-45f7-aa1d-6512d2ca0af1)
 
 ## About Me 👨🏾‍💻 :
