@@ -1,11 +1,6 @@
-### Hi! 👋
+                        ### Hi! 👋
 I'm Chris Baker, Data Analyst 💻
-
-
-
 ---
-
-
 <!--
 **cbake105/cbake105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 Tools and Technologies I use:
 
 ![image](https://github.com/cbake105/cbake105/assets/133677209/e42c2882-9a9b-4953-8d57-b2fde5d838a9)
