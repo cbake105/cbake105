@@ -3,9 +3,8 @@
 
 <br>![giphy](https://github.com/cbake105/cbake105/assets/133677209/87579deb-78c4-45f7-aa1d-6512d2ca0af1)><br>
 </h2> 
-![giphy](https://github.com/cbake105/cbake105/assets/133677209/87579deb-78c4-45f7-aa1d-6512d2ca0af1)
 
-## About Me 👨🏾‍💻 :
+<h2 align="left"> About Me 👨🏾‍💻 :
 Data Analyst with a Finance background, proficient data analysis skills, and an eye for detail to continuously improve efficiency and accuracy. I am a highly skilled communicator and I enjoy connecting with people. 
 ---
 
@@ -27,6 +26,7 @@ Data Analyst with a Finance background, proficient data analysis skills, and an 
 
 ## Connect with me here 🤝 :
 ![image](https://github.com/cbake105/cbake105/assets/133677209/f02460ff-488f-4a22-8e50-a158db10f72c)
-![image](https://github.com/cbake105/cbake105/assets/133677209/8f70def5-ceb0-4c87-8cae-3321fe56c655)
+![image](https://github.com/cbake105/cbake105/assets/133677209/8f70def5-ceb0-4c87-8cae-3321fe56c655)</h2>
+
 
 
