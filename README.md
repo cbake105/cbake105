@@ -41,7 +41,7 @@ Tools:
 ![postgresql_original_logo_icon_146391](https://github.com/cbake105/cbake105/assets/133677209/71428e51-d203-459a-823d-9f420254bd4c)
 ![mongodb_original_logo_icon_146424](https://github.com/cbake105/cbake105/assets/133677209/3c4f9419-459b-440b-9d62-24f57e2d420c)
 ![file_type_vscode_icon_130084](https://github.com/cbake105/cbake105/assets/133677209/4ab9dbc5-406a-443f-9943-5700867beea5)
-![jupyter_app_icon_161280](https://github.com/cbake105/cbake105/assets/133677209/694ec7b3-703a-4078-bd8f-e7fa29d7f768)
+![jupyter_logo_icon_169452](https://github.com/cbake105/cbake105/assets/133677209/87c70626-7ba8-44a4-bdf9-28e1e8033f62)
 
 
 
