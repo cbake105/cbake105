@@ -1,7 +1,7 @@
 ### Hi! 👋
 I'm Chris Baker, Data Analyst 💻
 
-![github_profile_picture](https://github.com/cbake105/cbake105/assets/133677209/0e4f1e01-f3f7-43cb-b3ea-a2ca11a40cfa)
+
 
 ---
 
