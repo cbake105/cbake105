@@ -21,16 +21,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Most Used Languages: 
+Tools and Technologies I use:
 
 ![image](https://github.com/cbake105/cbake105/assets/133677209/e42c2882-9a9b-4953-8d57-b2fde5d838a9)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/e169bc6a-80cd-4c0f-830e-e5132d8e40fd)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/fda2581f-3b22-440e-a463-8c8eb263afb1)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/7e86a180-10b8-4dbe-a422-aa265ab54772)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/0b43edc3-1edf-4eaa-9bb3-e8ce3b5fa546)
-
-Tools:
-
 ![postgresql_original_logo_icon_146391](https://github.com/cbake105/cbake105/assets/133677209/71428e51-d203-459a-823d-9f420254bd4c)
 ![mongodb_original_logo_icon_146424](https://github.com/cbake105/cbake105/assets/133677209/3c4f9419-459b-440b-9d62-24f57e2d420c)
 ![file_type_vscode_icon_130084](https://github.com/cbake105/cbake105/assets/133677209/4ab9dbc5-406a-443f-9943-5700867beea5)
