@@ -9,7 +9,7 @@ Data Analyst with a Finance background, proficient data analysis skills, and an 
 
 
 <h2 align="left">Tools and Technologies I use 🛠️
-  
+
 ![image](https://github.com/cbake105/cbake105/assets/133677209/e42c2882-9a9b-4953-8d57-b2fde5d838a9)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/e169bc6a-80cd-4c0f-830e-e5132d8e40fd)
 ![image](https://github.com/cbake105/cbake105/assets/133677209/fda2581f-3b22-440e-a463-8c8eb263afb1)
